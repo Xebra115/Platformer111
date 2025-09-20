@@ -4,7 +4,7 @@ public Spikes{
     public Spikes(int x, int y){
         this.x = x;
         this.y = y;
-        this.touched = False;
+        this.touched = false;
         
         }
         
